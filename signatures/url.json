@@ -1,0 +1,1 @@
+{"flags": "-uu -L --smart-case", "patterns": "https?://(?:[-\\w.]|(?:%[\\da-fA-F]{2}))+"}

@@ -1,0 +1,6 @@
+{
+    "flags": "-uu -L -C 4 --smart-case",
+    "patterns": [
+        "Access-Control-Allow"
+    ]
+}

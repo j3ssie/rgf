@@ -1,0 +1,4 @@
+{
+    "flags": "-uu -L --smart-case",
+    "patterns": "firebaseio.com"
+}
